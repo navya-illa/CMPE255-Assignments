@@ -118,7 +118,7 @@ Part-2-Coding-Assistant/
 
 The complete AI-assisted development conversation is included for transparency and assignment documentation:
 
-- [Coding-assistant chat transcript (PDF)](reports/coding-assistant-chat-transcript.pdf)
+- [Coding-assistant chat transcript](reports/coding-assistant-chat-transcript.txt)
 - [Curated prompt-engineering record](PROMPTS.md)
 ## AI-assistance disclosure
 
