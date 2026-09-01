@@ -2,9 +2,9 @@
 
 This repository contains my coursework and projects for **CMPE 255: Data Mining** at San José State University.
 
-## Assignments
+### Assignment 1
 
-### [Assignment 1 — Intel Scene Classification with Deep Learning](./Assignment-1/)
+- [Part 1 — Intel Scene Classification with Deep Learning](./Assignment-1/)
 
 An end-to-end image-classification project comparing a custom CNN with a fine-tuned MobileNetV2 model on the Intel Image Classification dataset.
 
@@ -18,6 +18,8 @@ An end-to-end image-classification project comparing a custom CNN with a fine-tu
 - Analyzed errors using confusion matrices and misclassification galleries
 - Used Grad-CAM for model explainability
 - Documented the AI-assisted prompt-engineering process
+
+- [Part 2 — Customer Segmentation Using an AI Coding Assistant](./Assignment-1/Part-2-Coding-Assistant/)
 
 ## Project Resources
 
