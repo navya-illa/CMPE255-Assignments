@@ -1,0 +1,35 @@
+{
+  "project": "Intel Scene Classification with Deep Learning",
+  "random_seed": 42,
+  "image_size": [
+    150,
+    150
+  ],
+  "training_images": 11228,
+  "validation_images": 2806,
+  "test_images": 3000,
+  "classes": [
+    "buildings",
+    "forest",
+    "glacier",
+    "mountain",
+    "sea",
+    "street"
+  ],
+  "custom_cnn": {
+    "test_accuracy": 0.8009999990463257,
+    "test_loss": 0.5697861313819885
+  },
+  "fine_tuned_mobilenetv2": {
+    "test_accuracy": 0.9026666879653931,
+    "test_loss": 0.2486896961927414,
+    "macro_precision": 0.9042775846805755,
+    "macro_recall": 0.9063325711508657,
+    "macro_f1": 0.9047903876968872
+  },
+  "principal_confusions": {
+    "mountain_predicted_as_glacier": 69,
+    "glacier_predicted_as_mountain": 63,
+    "street_predicted_as_buildings": 49
+  }
+}
