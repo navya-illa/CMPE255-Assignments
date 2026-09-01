@@ -140,6 +140,12 @@ ChatGPT/Codex assisted with planning, code generation, debugging, model interpre
 
 **Medium URL:** [Teaching a Neural Network to Recognize Natural Scenes: From a Custom CNN to Explainable Transfer Learning](https://medium.com/@9navya9/teaching-a-neural-network-to-recognize-natural-scenes-from-a-custom-cnn-to-explainable-transfer-b404798e954a)
 
+## Video Presentation
+
+Watch the complete end-to-end project presentation on YouTube:
+
+[▶️ Intel Scene Classification with Deep Learning — Video Presentation](https://youtu.be/uP-GiGcLEgw)
+
 ## Author
 
 Navya Illa  
