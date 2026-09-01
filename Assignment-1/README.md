@@ -138,10 +138,16 @@ Assignment-1/
     ├── data/
     │   └── README.md
     ├── notebooks/
+    │   └── customer-segmentation.ipynb
     ├── src/
+    │   └── run_experiment.py
     ├── artifacts/
-    ├── app/
+    │   ├── *.png
+    │   ├── *.csv
+    │   └── *.json
     └── reports/
+        ├── experiment-summary.md
+        └── youtube-walkthrough.md
 ```
 
 ## AI-assistance disclosure
