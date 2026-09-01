@@ -2,7 +2,7 @@
 
 ## Objective
 
-Add the purpose of this assignment here.
+To do data science end-to-end with coding assistance.
 
 ## Artifacts
 
