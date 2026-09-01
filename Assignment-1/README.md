@@ -132,7 +132,6 @@ Assignment-1/
 │   └── README.md
 ├── .gitignore
 ├── requirements.txt
-└── SUBMISSION-CHECKLIST.md
 ```
 
 ## AI-assistance disclosure
@@ -141,7 +140,7 @@ ChatGPT/Codex assisted with planning, code generation, debugging, model interpre
 
 ## Medium article 
 
-**Medium URL:** 
+**Medium URL:** [Teaching a Neural Network to Recognize Natural Scenes: From a Custom CNN to Explainable Transfer Learning](https://medium.com/@9navya9/teaching-a-neural-network-to-recognize-natural-scenes-from-a-custom-cnn-to-explainable-transfer-b404798e954a)
 
 ## Author
 
