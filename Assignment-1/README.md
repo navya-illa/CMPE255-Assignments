@@ -147,7 +147,6 @@ Assignment-1/
     │   └── *.json
     └── reports/
         ├── experiment-summary.md
-        └── youtube-walkthrough.md
 ```
 
 ## AI-assistance disclosure
