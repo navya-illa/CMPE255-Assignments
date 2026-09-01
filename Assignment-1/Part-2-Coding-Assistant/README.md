@@ -114,6 +114,12 @@ Part-2-Coding-Assistant/
 
 **YouTube URL:** 
 
+## Coding-assistant conversation
+
+The complete AI-assisted development conversation is included for transparency and assignment documentation:
+
+- [Coding-assistant chat transcript (PDF)](reports/coding-assistant-chat-transcript.pdf)
+- [Curated prompt-engineering record](PROMPTS.md)
 ## AI-assistance disclosure
 
 Codex assisted with experiment design, code generation, debugging, validation, visualization, and documentation. The conclusions in this repository are grounded in the executed experiment and exported artifacts. AI-generated suggestions were checked against the source data and computed metrics before inclusion.
