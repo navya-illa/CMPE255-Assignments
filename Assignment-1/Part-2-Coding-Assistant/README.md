@@ -112,7 +112,7 @@ Part-2-Coding-Assistant/
 
 ## Video walkthrough
 
-**YouTube URL:** 
+**YouTube URL:** https://youtu.be/1VMVo_w-rBA
 
 ## Coding-assistant conversation
 
