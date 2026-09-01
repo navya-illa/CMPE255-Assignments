@@ -114,8 +114,6 @@ Dual-GPU deep learning may still show small run-to-run differences because some 
 ```text
 Assignment-1/
 ├── README.md
-├── article/
-│   └── medium-article.md
 ├── artifacts/
 │   ├── *.png
 │   ├── *.csv
