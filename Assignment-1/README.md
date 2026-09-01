@@ -146,6 +146,19 @@ Watch the complete end-to-end project presentation on YouTube:
 
 [▶️ Intel Scene Classification with Deep Learning — Video Presentation](https://youtu.be/uP-GiGcLEgw)
 
+## Part 2 — Data Science Using a Coding Assistant
+
+This section reproduces and improves a customer-segmentation experiment using an AI coding assistant.
+
+The project compares multiple clustering methods, evaluates cluster quality, visualizes customer segments, and documents the complete prompt-engineering process.
+
+### Resources
+
+- [Part 2 source code and documentation](./Part-2-Coding-Assistant/)
+- [Prompts used with the coding assistant](./Part-2-Coding-Assistant/PROMPTS.md)
+- [Experiment notebook](./Part-2-Coding-Assistant/notebooks/customer-segmentation.ipynb)
+- [YouTube walkthrough](Link)
+
 ## Author
 
 Navya Illa  
