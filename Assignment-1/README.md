@@ -178,4 +178,4 @@ The project compares multiple clustering methods, evaluates cluster quality, vis
 ## Author
 
 Navya Illa  
-Student ID: 020780084
+San José State University
