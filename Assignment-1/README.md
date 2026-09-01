@@ -137,11 +137,9 @@ Assignment-1/
 
 ## AI-assistance disclosure
 
-ChatGPT/Codex assisted with planning, code generation, debugging, model interpretation, documentation, and article drafting. All reported results were produced by the executed Kaggle notebook and reconciled against its exported artifacts. The custom instructions and principal prompts are preserved under `prompts/`; the complete exported conversation placed under `reports/`.
+ChatGPT/Codex assisted with planning, code generation, debugging, model interpretation, documentation, and article drafting. All reported results were produced by the executed Kaggle notebook and reconciled against its exported artifacts. The custom instructions and principal prompts are preserved under `prompts/`; the complete exported conversation is placed under `reports/`.
 
-## Medium article
-
-The publication-ready draft is available at [`article/medium-article.md`](article/medium-article.md). 
+## Medium article 
 
 **Medium URL:** 
 
