@@ -130,6 +130,18 @@ Assignment-1/
 │   └── README.md
 ├── .gitignore
 ├── requirements.txt
+│
+└── Part-2-Coding-Assistant/
+    ├── README.md
+    ├── PROMPTS.md
+    ├── requirements.txt
+    ├── data/
+    │   └── README.md
+    ├── notebooks/
+    ├── src/
+    ├── artifacts/
+    ├── app/
+    └── reports/
 ```
 
 ## AI-assistance disclosure
