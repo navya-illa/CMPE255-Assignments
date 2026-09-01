@@ -169,7 +169,6 @@ The project compares multiple clustering methods, evaluates cluster quality, vis
 - [Part 2 source code and documentation](./Part-2-Coding-Assistant/)
 - [Prompts used with the coding assistant](./Part-2-Coding-Assistant/PROMPTS.md)
 - [Experiment notebook](./Part-2-Coding-Assistant/notebooks/customer-segmentation.ipynb)
-- [YouTube walkthrough](Link)
 
 ## Author
 
