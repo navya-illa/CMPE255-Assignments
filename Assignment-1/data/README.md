@@ -1,10 +1,8 @@
-# Dataset Access
+## Dataset Access
 
-This project uses the **Intel Image Classification** dataset published on Kaggle:
+This project uses the [Intel Image Classification dataset](https://www.kaggle.com/datasets/puneet6060/intel-image-classification) from Kaggle.
 
-https://www.kaggle.com/datasets/puneet6060/intel-image-classification
-
-The dataset is not redistributed in this repository. Attach it directly to the Kaggle notebook so the expected directories are available under:
+The dataset is not included in this GitHub repository because of its large size. To reproduce the analysis, open the Kaggle notebook and attach the dataset as an input. Kaggle will make it available at:
 
 ```text
 /kaggle/input/datasets/puneet6060/intel-image-classification/
