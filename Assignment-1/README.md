@@ -163,6 +163,15 @@ Watch the complete end-to-end project presentation on YouTube:
 
 [▶️ Intel Scene Classification with Deep Learning — Video Presentation](https://youtu.be/uP-GiGcLEgw)
 
+## References
+
+1. [Intel Image Classification dataset](https://www.kaggle.com/datasets/puneet6060/intel-image-classification). Kaggle.
+2. [TensorFlow image classification tutorial](https://www.tensorflow.org/tutorials/images/classification). TensorFlow Documentation.
+3. [MobileNetV2](https://keras.io/api/applications/mobilenet/). Keras Applications Documentation.
+4. Sandler, M., et al. (2018). [MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/abs/1801.04381).
+5. Selvaraju, R. R., et al. (2017). [Grad-CAM](https://arxiv.org/abs/1610.02391).
+6. Wirth, R., & Hipp, J. (2000). [CRISP-DM](https://www.the-modeling-agency.com/crisp-dm.pdf).
+
 ## Part 2 — Data Science Using a Coding Assistant
 
 This section reproduces and improves a customer-segmentation experiment using an AI coding assistant.
