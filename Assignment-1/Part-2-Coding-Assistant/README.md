@@ -113,6 +113,14 @@ Part-2-Coding-Assistant/
 ## Video walkthrough
 
 **YouTube URL:** https://youtu.be/1VMVo_w-rBA
+## References
+
+1. [Mall Customers dataset](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python). Kaggle.
+2. [StandardScaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html). scikit-learn Documentation.
+3. [KMeans](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html), [AgglomerativeClustering](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.AgglomerativeClustering.html), and [DBSCAN](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html). scikit-learn Documentation.
+4. [Silhouette Coefficient](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.silhouette_score.html). scikit-learn Documentation.
+5. Rousseeuw, P. J. (1987). [Silhouettes](https://doi.org/10.1016/0377-0427(87)90125-7).
+6. [Customer segmentation example repository](https://github.com/dlmastery/data_science_examples).
 
 ## Coding-assistant conversation
 
