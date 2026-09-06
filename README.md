@@ -1,6 +1,6 @@
 # CMPE 255 Assignments
 
-This repository contains my coursework and projects for **CMPE 255: Data Mining** at San José State University.
+This repository contains my assignments for my coursework **CMPE 255: Data Mining** at San José State University.
 
 ## Assignment 1
 
