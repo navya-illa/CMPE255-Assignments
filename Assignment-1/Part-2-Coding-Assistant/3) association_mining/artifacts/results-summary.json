@@ -1,6 +1,0 @@
-{
-  "algorithm": "Apriori",
-  "rules": 45,
-  "top_lift": 0.9377,
-  "transactions": 10000
-}
