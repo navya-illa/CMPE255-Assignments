@@ -1,6 +1,0 @@
-{
-  "model": "Isolation Forest",
-  "pr_auc": 0.9908,
-  "roc_auc": 0.9995,
-  "anomaly_rate": 0.0343
-}
