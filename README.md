@@ -33,11 +33,11 @@ This section presents five data-mining problems solved with the support of an AI
 
 | Problem | Selected method | Primary result |
 |---|---|---|
-| Classification | Logistic regression | PR-AUC **0.5243** |
-| Regression | Random forest | Duration R² **0.9650**; fare R² **0.9931** |
+| Classification | Logistic regression | PR-AUC **0.6985** |
+| Regression | Random forest | Duration R² **0.9024**; fare R² **0.5905** |
 | Clustering | K-Means, k=6 | Silhouette **0.4274**; coverage **100%** |
-| Anomaly detection | Isolation Forest | PR-AUC **0.7837** |
-| Association mining | Apriori | **174** rules; top lift **6.3346** |
+| Anomaly detection | Isolation Forest | PR-AUC **0.9908** |
+| Association mining | Apriori | **45** rules; top lift **0.9377** |
 
 Each problem includes a data audit, model or algorithm comparison, executed metrics, visual artifacts, reproducibility instructions, limitations, references, and AI-assistance disclosure.
 
@@ -45,13 +45,12 @@ Each problem includes a data audit, model or algorithm comparison, executed metr
 
 - [Part 2 documentation](./Assignment-1/Part-2-Coding-Assistant/README.md)
 - [Five-problem experiment summary](./Assignment-1/Part-2-Coding-Assistant/reports/five-problem-summary.md)
-- [Evidence plan](./Assignment-1/Part-2-Coding-Assistant/EVIDENCE_PLAN.md)
 - [Coding-assistant prompts](./Assignment-1/Part-2-Coding-Assistant/PROMPTS.md)
-- [Classification experiment](./Assignment-1/Part-2-Coding-Assistant/classification/README.md)
-- [Regression experiment](./Assignment-1/Part-2-Coding-Assistant/regression/README.md)
-- [Clustering experiment](./Assignment-1/Part-2-Coding-Assistant/clustering/README.md)
-- [Anomaly-detection experiment](./Assignment-1/Part-2-Coding-Assistant/anomaly_detection/README.md)
-- [Association-mining experiment](./Assignment-1/Part-2-Coding-Assistant/association_mining/README.md)
+- [Clustering experiment](./Assignment-1/Part-2-Coding-Assistant/1%29%20clustering/README.md)
+- [Classification experiment](./Assignment-1/Part-2-Coding-Assistant/2%29%20classification/README.md)
+- [Association-mining experiment](./Assignment-1/Part-2-Coding-Assistant/3%29%20association_mining/README.md)
+- [Regression experiment](./Assignment-1/Part-2-Coding-Assistant/4%29%20regression/README.md)
+- [Anomaly-detection experiment](./Assignment-1/Part-2-Coding-Assistant/5%29%20anomaly_detection/README.md)
 - [Five-problem experiment summary](./Assignment-1/Part-2-Coding-Assistant/reports/five-problem-summary.md)
 ## Author
 
