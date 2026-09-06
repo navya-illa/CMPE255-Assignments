@@ -44,14 +44,13 @@ Each problem includes a data audit, model or algorithm comparison, executed metr
 **Resources:**
 
 - [Part 2 documentation](./Assignment-1/Part-2-Coding-Assistant/README.md)
-- [Five-problem experiment summary](./Assignment-1/Part-2-Coding-Assistant/reports/five-problem-summary.md)
-- [Coding-assistant prompts](./Assignment-1/Part-2-Coding-Assistant/PROMPTS.md)
 - [Clustering experiment](./Assignment-1/Part-2-Coding-Assistant/1%29%20clustering/README.md)
 - [Classification experiment](./Assignment-1/Part-2-Coding-Assistant/2%29%20classification/README.md)
 - [Association-mining experiment](./Assignment-1/Part-2-Coding-Assistant/3%29%20association_mining/README.md)
 - [Regression experiment](./Assignment-1/Part-2-Coding-Assistant/4%29%20regression/README.md)
 - [Anomaly-detection experiment](./Assignment-1/Part-2-Coding-Assistant/5%29%20anomaly_detection/README.md)
 - [Five-problem experiment summary](./Assignment-1/Part-2-Coding-Assistant/reports/five-problem-summary.md)
+- [Coding-assistant prompts](./Assignment-1/Part-2-Coding-Assistant/PROMPTS.md)
 ## Author
 
 **Navya Illa**  
