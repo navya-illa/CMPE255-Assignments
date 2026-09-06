@@ -186,21 +186,6 @@ Watch the complete end-to-end project presentation on YouTube:
 5. Selvaraju, R. R., et al. (2017). [Grad-CAM](https://arxiv.org/abs/1610.02391).
 6. Wirth, R., & Hipp, J. (2000). [CRISP-DM](https://www.the-modeling-agency.com/crisp-dm.pdf).
 
-## Part 2 — Five Data-Mining Problems Solved with an AI Coding Assistant
-
-This section presents five reproducible data-mining problems solved with the support of an AI coding assistant: clustering, classification, association mining, regression, and anomaly detection.
-
-### Resources
-
-- [Part 2 source code and documentation](./Part-2-Coding-Assistant/)
-- [Prompts used with the coding assistant](./Part-2-Coding-Assistant/PROMPTS.md)
-- [Five-problem experiment summary](./Part-2-Coding-Assistant/reports/five-problem-summary.md)
-- [Clustering experiment](./Part-2-Coding-Assistant/1%29%20clustering/README.md)
-- [Classification experiment](./Part-2-Coding-Assistant/2%29%20classification/README.md)
-- [Association-mining experiment](./Part-2-Coding-Assistant/3%29%20association_mining/README.md)
-- [Regression experiment](./Part-2-Coding-Assistant/4%29%20regression/README.md)
-- [Anomaly-detection experiment](./Part-2-Coding-Assistant/5%29%20anomaly_detection/README.md)
-
 ## Author
 
 Navya Illa  
