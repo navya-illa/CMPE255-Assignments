@@ -1,0 +1,7 @@
+{
+  "model": "Logistic regression",
+  "pr_auc": 0.6985,
+  "roc_auc": 0.8615,
+  "f1": 0.6102,
+  "rows": 10000
+}

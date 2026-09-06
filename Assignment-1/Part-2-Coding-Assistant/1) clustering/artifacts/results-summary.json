@@ -1,0 +1,25 @@
+{
+  "data_audit": {
+    "rows": 200,
+    "columns": 5,
+    "missing_values": 0,
+    "duplicate_rows": 0,
+    "duplicate_customer_ids": 0
+  },
+  "features": [
+    "Age",
+    "Annual Income (k$)",
+    "Spending Score (1-100)"
+  ],
+  "scaling": "StandardScaler",
+  "selected_model": "K-Means",
+  "selected_k": 6,
+  "kmeans_silhouette": 0.4274,
+  "hierarchical_best_parameter": "k=6",
+  "hierarchical_best_silhouette": 0.4201,
+  "dbscan_parameter": "eps=0.55, min_samples=8",
+  "dbscan_silhouette_non_noise": 0.5158,
+  "dbscan_coverage": 0.69,
+  "pca_explained_variance_2d": 0.7757,
+  "selection_note": "K-Means was selected for full customer assignment and interpretability; DBSCAN metrics exclude noise and are reported with coverage."
+}
