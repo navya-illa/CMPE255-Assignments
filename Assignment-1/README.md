@@ -161,7 +161,7 @@ ChatGPT/Codex assisted with planning, code generation, debugging, model interpre
 
 Watch the complete end-to-end project presentation on YouTube:
 
-[▶️ Intel Scene Classification with Deep Learning — Video Presentation](https://youtu.be/uP-GiGcLEgw)
+[Intel Scene Classification with Deep Learning — Video Presentation](https://youtu.be/uP-GiGcLEgw)
 
 ## References
 
