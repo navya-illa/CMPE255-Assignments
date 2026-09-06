@@ -161,6 +161,7 @@ Assignment-1/
         │   ├── PROMPTS.md
         │   ├── requirements.txt
         │   └── data/, artifacts/, notebooks/, reports/, src/
+```
 
 ## AI-assistance disclosure
 
