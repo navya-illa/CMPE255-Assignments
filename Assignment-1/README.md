@@ -194,7 +194,7 @@ This section presents five reproducible data-mining problems solved with the sup
 
 - [Part 2 source code and documentation](./Part-2-Coding-Assistant/)
 - [Prompts used with the coding assistant](./Part-2-Coding-Assistant/PROMPTS.md)
-- [Five-problem results](./Part-2-Coding-Assistant/RESULTS_SUMMARY.md)
+- [Five-problem experiment summary](./Part-2-Coding-Assistant/reports/five-problem-summary.md)
 - [Clustering experiment](./Part-2-Coding-Assistant/1%29%20clustering/README.md)
 - [Classification experiment](./Part-2-Coding-Assistant/2%29%20classification/README.md)
 - [Association-mining experiment](./Part-2-Coding-Assistant/3%29%20association_mining/README.md)
