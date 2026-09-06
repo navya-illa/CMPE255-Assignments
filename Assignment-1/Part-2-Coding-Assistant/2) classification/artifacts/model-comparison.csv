@@ -1,2 +1,0 @@
-model,pr_auc,roc_auc,f1,rows
-Logistic regression,0.6985,0.8615,0.6102,10000
