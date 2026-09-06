@@ -1,0 +1,4 @@
+method,roc_auc,pr_auc,precision,recall,f1,false_positive_rate
+Isolation Forest,0.9995,0.9908,0.9534,0.9534,0.9534,0.0017
+One-Class SVM,0.9353,0.4744,0.4577,0.4577,0.4577,0.0193
+Local Outlier Factor,0.5286,0.051,0.0816,0.0816,0.0816,0.0326

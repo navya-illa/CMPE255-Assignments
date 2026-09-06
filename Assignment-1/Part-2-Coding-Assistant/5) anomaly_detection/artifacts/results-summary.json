@@ -1,0 +1,82 @@
+{
+  "experiment": "server_telemetry_anomaly_detection",
+  "seed": 42,
+  "data_audit": {
+    "rows": 10000,
+    "signals": 6,
+    "missing_values": 0,
+    "duplicate_rows": 0,
+    "anomaly_rate": 0.0343
+  },
+  "labels_used_for_training": false,
+  "methods_compared": [
+    "Isolation Forest",
+    "Local Outlier Factor",
+    "One-Class SVM"
+  ],
+  "selected_method": "Isolation Forest",
+  "selection_metric": "PR-AUC",
+  "selected_metrics": {
+    "method": "Isolation Forest",
+    "roc_auc": 0.9995,
+    "pr_auc": 0.9908,
+    "precision": 0.9534,
+    "recall": 0.9534,
+    "f1": 0.9534,
+    "false_positive_rate": 0.0017
+  },
+  "artifacts": [
+    "model-comparison.csv",
+    "model-comparison.png",
+    "selected-confusion-matrix.png",
+    "anomaly-feature-deviations.csv",
+    "results-summary.json"
+  ],
+  "limitations": [
+    "synthetic telemetry",
+    "threshold and contamination sensitivity",
+    "requires analyst feedback and drift monitoring"
+  ],
+  "method_comparison": [
+    {
+      "method": "Isolation Forest",
+      "roc_auc": 0.9995,
+      "pr_auc": 0.9908,
+      "precision": 0.9534,
+      "recall": 0.9534,
+      "f1": 0.9534,
+      "false_positive_rate": 0.0017
+    },
+    {
+      "method": "One-Class SVM",
+      "roc_auc": 0.9353,
+      "pr_auc": 0.4744,
+      "precision": 0.4577,
+      "recall": 0.4577,
+      "f1": 0.4577,
+      "false_positive_rate": 0.0193
+    },
+    {
+      "method": "Local Outlier Factor",
+      "roc_auc": 0.5286,
+      "pr_auc": 0.051,
+      "precision": 0.0816,
+      "recall": 0.0816,
+      "f1": 0.0816,
+      "false_positive_rate": 0.0326
+    }
+  ],
+  "artifact_purpose": {
+    "model-comparison.csv": "All detector metrics",
+    "model-comparison.png": "Detector PR-AUC comparison",
+    "selected-confusion-matrix.png": "Thresholded errors for the selected detector",
+    "anomaly-feature-deviations.csv": "Feature-level deviation summary"
+  },
+  "reproducibility": {
+    "random_state": 42,
+    "contamination": 0.0343,
+    "selection_metric": "PR-AUC",
+    "labels_used_for_training": false
+  },
+  "selection_note": "Isolation Forest was selected by PR-AUC while also reporting false-positive rate and thresholded classification metrics because anomalies are rare."
+}
