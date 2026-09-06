@@ -44,7 +44,7 @@ Each problem includes a data audit, model or algorithm comparison, executed metr
 **Resources:**
 
 - [Part 2 documentation](./Assignment-1/Part-2-Coding-Assistant/README.md)
-- [Five-problem results summary](./Assignment-1/Part-2-Coding-Assistant/RESULTS_SUMMARY.md)
+- [Five-problem experiment summary](./Assignment-1/Part-2-Coding-Assistant/reports/five-problem-summary.md)
 - [Evidence plan](./Assignment-1/Part-2-Coding-Assistant/EVIDENCE_PLAN.md)
 - [Coding-assistant prompts](./Assignment-1/Part-2-Coding-Assistant/PROMPTS.md)
 - [Classification experiment](./Assignment-1/Part-2-Coding-Assistant/classification/README.md)
