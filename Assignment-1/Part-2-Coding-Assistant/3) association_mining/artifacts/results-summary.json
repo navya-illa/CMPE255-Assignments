@@ -1,0 +1,61 @@
+{
+  "experiment": "market_basket_association_mining",
+  "seed": 42,
+  "data_audit": {
+    "transactions": 10000,
+    "unique_items": 10,
+    "average_basket_size": 3.493
+  },
+  "thresholds": {
+    "minimum_support": 0.035,
+    "maximum_itemset_length": 2
+  },
+  "algorithms_compared": [
+    "Apriori-style",
+    "ECLAT reference"
+  ],
+  "selected_algorithm": "Apriori-style",
+  "selection_reason": "transparent candidate-generation workflow",
+  "metrics": {
+    "rules": 45,
+    "top_lift": 0.9377
+  },
+  "artifacts": [
+    "apriori-rules.csv",
+    "eclat-rules.csv",
+    "algorithm-comparison.csv",
+    "top-rules.png",
+    "results-summary.json"
+  ],
+  "limitations": [
+    "synthetic transactions",
+    "co-occurrence is not causation",
+    "rules require support and controlled validation"
+  ],
+  "algorithm_comparison": [
+    {
+      "algorithm": "Apriori-style",
+      "rules": 45,
+      "top_lift": 0.9377,
+      "runtime_seconds": 0.040392
+    },
+    {
+      "algorithm": "ECLAT reference",
+      "rules": 45,
+      "top_lift": 0.9377,
+      "runtime_seconds": 0.039351
+    }
+  ],
+  "artifact_purpose": {
+    "apriori-rules.csv": "Apriori-style support, confidence, and lift values",
+    "eclat-rules.csv": "Reference implementation output",
+    "algorithm-comparison.csv": "Rule counts, top lift, and runtime comparison",
+    "top-rules.png": "Highest-lift rule visualization"
+  },
+  "reproducibility": {
+    "random_state": 42,
+    "minimum_support": 0.035,
+    "maximum_itemset_length": 2
+  },
+  "selection_note": "Apriori-style generation was retained because its candidate-generation workflow is transparent; both implementations produced the same rule count and top lift."
+}
