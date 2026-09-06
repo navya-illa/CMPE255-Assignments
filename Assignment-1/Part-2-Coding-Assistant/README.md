@@ -14,23 +14,6 @@ This directory contains five separate data-mining problems solved with support f
 
 The metrics above summarize separate problem types and are not directly comparable. Each folder contains the detailed results, visual evidence, notebook workflow, report, prompt record, and reproducibility instructions for that problem.
 
-## Shared evidence standard
-
-Every experiment includes:
-
-- a dataset and schema audit;
-- a comparison among appropriate baselines or algorithms;
-- metrics appropriate to the problem type;
-- exported CSV and JSON artifacts;
-- generated visual evidence where useful;
-- a non-empty Jupyter notebook showing audit, execution, comparison, and reconciliation;
-- a report describing verified findings and limitations;
-- reproducibility instructions;
-- references and dataset-attribution notes; and
-- an AI-assistance disclosure.
-
-The command-line script and exported artifacts are authoritative. Narrative claims are checked against executed outputs rather than invented or manually estimated results.
-
 ## Repository structure
 
 ```text
