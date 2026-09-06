@@ -1,0 +1,7 @@
+model,target,mae,rmse,r2
+mean baseline,duration,69.1766,87.8493,-0.0
+mean baseline,fare,1.843,2.3169,-0.0004
+Ridge,duration,61.7066,78.3068,0.2054
+Ridge,fare,1.7358,2.1814,0.1131
+random forest,duration,21.7847,27.4499,0.9024
+random forest,fare,1.1697,1.4824,0.5904

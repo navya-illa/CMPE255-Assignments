@@ -1,0 +1,108 @@
+{
+  "experiment": "nyc_taxi_duration_and_fare_regression",
+  "seed": 42,
+  "data_audit": {
+    "rows": 10000,
+    "columns": 8,
+    "missing_values": 0,
+    "duplicate_rows": 0,
+    "targets": [
+      "duration",
+      "fare"
+    ]
+  },
+  "split": {
+    "test_size": 0.2,
+    "random_state": 42
+  },
+  "models_compared": [
+    "mean baseline",
+    "Ridge",
+    "random forest"
+  ],
+  "selected_models": [
+    {
+      "model": "random forest",
+      "target": "duration",
+      "mae": 21.7847,
+      "rmse": 27.4499,
+      "r2": 0.9024
+    },
+    {
+      "model": "random forest",
+      "target": "fare",
+      "mae": 1.1697,
+      "rmse": 1.4824,
+      "r2": 0.5904
+    }
+  ],
+  "selection_metric": "RMSE",
+  "artifacts": [
+    "model-comparison.csv",
+    "model-comparison.png",
+    "selected-models.csv",
+    "residual-diagnostics.png",
+    "results-summary.json"
+  ],
+  "limitations": [
+    "synthetic data",
+    "no traffic or weather variables",
+    "requires temporal and geographic validation"
+  ],
+  "model_comparison": [
+    {
+      "model": "mean baseline",
+      "target": "duration",
+      "mae": 69.1766,
+      "rmse": 87.8493,
+      "r2": -0.0
+    },
+    {
+      "model": "mean baseline",
+      "target": "fare",
+      "mae": 1.843,
+      "rmse": 2.3169,
+      "r2": -0.0004
+    },
+    {
+      "model": "Ridge",
+      "target": "duration",
+      "mae": 61.7066,
+      "rmse": 78.3068,
+      "r2": 0.2054
+    },
+    {
+      "model": "Ridge",
+      "target": "fare",
+      "mae": 1.7358,
+      "rmse": 2.1814,
+      "r2": 0.1131
+    },
+    {
+      "model": "random forest",
+      "target": "duration",
+      "mae": 21.7847,
+      "rmse": 27.4499,
+      "r2": 0.9024
+    },
+    {
+      "model": "random forest",
+      "target": "fare",
+      "mae": 1.1697,
+      "rmse": 1.4824,
+      "r2": 0.5904
+    }
+  ],
+  "artifact_purpose": {
+    "model-comparison.csv": "All target-level model metrics",
+    "model-comparison.png": "Target distributions and RMSE comparison",
+    "selected-models.csv": "Best model for each target",
+    "residual-diagnostics.png": "Residual behavior for selected models"
+  },
+  "reproducibility": {
+    "random_state": 42,
+    "test_size": 0.2,
+    "selection_metric": "RMSE"
+  },
+  "selection_note": "Random forest was selected independently for duration and fare by the lowest test-set RMSE."
+}

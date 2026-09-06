@@ -1,0 +1,3 @@
+model,target,mae,rmse,r2
+random forest,duration,21.7847,27.4499,0.9024
+random forest,fare,1.1697,1.4824,0.5904
