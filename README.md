@@ -25,8 +25,6 @@ An end-to-end image-classification project comparing a custom CNN with a fine-tu
 - [Executed Kaggle notebook](https://www.kaggle.com/code/navyai9/intel-scene-classification-with-deep-learning)
 - [Medium article](https://medium.com/@9navya9/teaching-a-neural-network-to-recognize-natural-scenes-from-a-custom-cnn-to-explainable-transfer-b404798e954a)
 
-### [Part 2 — Customer Segmentation Using an AI Coding Assistant](./Assignment-1/Part-2-Coding-Assistant/)
-
 ### Part 2 — Five Data-Mining Problems Solved with an AI Coding Assistant
 
 This section presents five data-mining problems solved with the support of an AI coding assistant: classification, regression, clustering, anomaly detection, and association mining.
