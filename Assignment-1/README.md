@@ -134,20 +134,44 @@ Assignment-1/
 └── Part-2-Coding-Assistant/
     ├── README.md
     ├── PROMPTS.md
+    ├── PROJECT_PLAN.md
+    ├── PROJECT_RESULTS.md
     ├── requirements.txt
-    ├── data/
-    │   └── README.md
-    ├── notebooks/
-    │   └── customer-segmentation.ipynb
-    ├── src/
-    │   └── run_experiment.py
-    ├── artifacts/
-    │   ├── *.png
-    │   ├── *.csv
-    │   └── *.json
-    └── reports/
-        ├── experiment-summary.md
-```
+    ├── reports/
+    │   └── project-experiments.md
+    ├── classification/
+    │   ├── README.md
+    │   ├── PROMPTS.md
+    │   ├── requirements.txt
+    │   ├── data/
+    │   ├── artifacts/
+    │   ├── notebooks/
+    │   ├── reports/
+    │   └── src/
+    ├── regression/
+    │   ├── README.md
+    │   ├── PROMPTS.md
+    │   ├── requirements.txt
+    │   └── data/, artifacts/, notebooks/, reports/, src/
+    ├── clustering/
+    │   ├── README.md
+    │   ├── PROMPTS.md
+    │   ├── requirements.txt
+    │   ├── data/
+    │   ├── artifacts/
+    │   ├── notebooks/
+    │   ├── reports/
+    │   └── src/
+    ├── anomaly_detection/
+    │   ├── README.md
+    │   ├── PROMPTS.md
+    │   ├── requirements.txt
+    │   └── data/, artifacts/, notebooks/, reports/, src/
+    └── association_mining/
+        ├── README.md
+        ├── PROMPTS.md
+        ├── requirements.txt
+        └── data/, artifacts/, notebooks/, reports/, src/
 
 ## AI-assistance disclosure
 
