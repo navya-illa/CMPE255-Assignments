@@ -157,10 +157,10 @@ Assignment-1/
     │   ├── README.md, PROMPTS.md, requirements.txt
     │   └── data/, artifacts/, notebooks/, reports/, src/
     └── 5) anomaly_detection/
-        │   ├── README.md
-        │   ├── PROMPTS.md
-        │   ├── requirements.txt
-        │   └── data/, artifacts/, notebooks/, reports/, src/
+            ├── README.md
+            ├── PROMPTS.md
+            ├── requirements.txt
+            └── data/, artifacts/, notebooks/, reports/, src/
 ```
 
 ## AI-assistance disclosure
