@@ -27,24 +27,36 @@ An end-to-end image-classification project comparing a custom CNN with a fine-tu
 
 ### [Part 2 — Customer Segmentation Using an AI Coding Assistant](./Assignment-1/Part-2-Coding-Assistant/)
 
-A reproducible customer-segmentation experiment developed with an AI coding assistant using the Mall Customers dataset.
+### Part 2 — Five Data-Mining Problems Solved with an AI Coding Assistant
+
+This section presents five data-mining problems solved with the support of an AI coding assistant: classification, regression, clustering, anomaly detection, and association mining.
 
 **Highlights:**
 
-- Compared K-Means, Ward hierarchical clustering, and DBSCAN
-- Selected six-cluster K-Means with a **0.4274 silhouette score**
-- Assigned **100% of customers** to interpretable segments
-- Audited the misleading effect of excluding DBSCAN noise points
-- Generated customer profiles, PCA visualizations, and a hierarchical dendrogram
-- Documented staged prompting, evidence requirements, and adversarial self-critique
-- Included reproducible code, metrics, reports, and visual artifacts
+| Problem | Selected method | Primary result |
+|---|---|---|
+| Classification | Logistic regression | PR-AUC **0.5243** |
+| Regression | Random forest | Duration R² **0.9650**; fare R² **0.9931** |
+| Clustering | K-Means, k=6 | Silhouette **0.4274**; coverage **100%** |
+| Anomaly detection | Isolation Forest | PR-AUC **0.7837** |
+| Association mining | Apriori | **174** rules; top lift **6.3346** |
+
+Each problem includes a data audit, model or algorithm comparison, executed metrics, visual artifacts, reproducibility instructions, limitations, references, and AI-assistance disclosure.
 
 **Resources:**
 
 - [Part 2 documentation](./Assignment-1/Part-2-Coding-Assistant/README.md)
+- [Five-problem results](./Assignment-1/Part-2-Coding-Assistant/PROJECT_RESULTS.md)
+- [Part 2 evidence plan](./Assignment-1/Part-2-Coding-Assistant/PROJECT_PLAN.md)
 - [Coding-assistant prompts](./Assignment-1/Part-2-Coding-Assistant/PROMPTS.md)
-- [Experiment notebook](./Assignment-1/Part-2-Coding-Assistant/notebooks/customer-segmentation.ipynb)
-- [Experiment summary](./Assignment-1/Part-2-Coding-Assistant/reports/experiment-summary.md)
+- [Classification experiment](./Assignment-1/Part-2-Coding-Assistant/classification/README.md)
+- [Regression experiment](./Assignment-1/Part-2-Coding-Assistant/regression/README.md)
+- [Clustering experiment](./Assignment-1/Part-2-Coding-Assistant/clustering/README.md)
+- [Clustering notebook](./Assignment-1/Part-2-Coding-Assistant/clustering/notebooks/customer-segmentation.ipynb)
+- [Clustering experiment summary](./Assignment-1/Part-2-Coding-Assistant/clustering/reports/experiment-summary.md)
+- [Anomaly-detection experiment](./Assignment-1/Part-2-Coding-Assistant/anomaly_detection/README.md)
+- [Association-mining experiment](./Assignment-1/Part-2-Coding-Assistant/association_mining/README.md)
+- [Five-problem experiment report](./Assignment-1/Part-2-Coding-Assistant/reports/project-experiments.md)
 
 ## Author
 
