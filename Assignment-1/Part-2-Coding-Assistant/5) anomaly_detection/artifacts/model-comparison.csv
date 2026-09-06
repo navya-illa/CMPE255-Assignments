@@ -1,2 +1,0 @@
-model,pr_auc,roc_auc,anomaly_rate
-Isolation Forest,0.9908,0.9995,0.0343
