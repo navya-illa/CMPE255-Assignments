@@ -14,7 +14,7 @@ This directory contains five data-mining problems solved with the support of an 
 
 ## Results summary
 
-The five problems are separate analyses, so their metrics are not directly comparable. See [`reports/five-problem-summary.md`](reports/five-problem-summary.md) for the five-problem results and [`PROMPTS.md`](PROMPTS.md) for the prompt index.
+The five problems are separate analyses, so their metrics are not directly comparable. See [`summary.md`](reports/five-problem-summary.md) for the five-problem results and [`PROMPTS.md`](PROMPTS.md) for the prompt index.
 
 ## Shared evidence standard
 
