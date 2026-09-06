@@ -1,0 +1,82 @@
+{
+  "experiment": "customer_churn_classification",
+  "seed": 42,
+  "data_audit": {
+    "rows": 10000,
+    "columns": 11,
+    "missing_values": 0,
+    "duplicate_rows": 0,
+    "churn_rate": 0.1467
+  },
+  "split": {
+    "test_size": 0.2,
+    "stratified": true
+  },
+  "models_compared": [
+    "majority baseline",
+    "logistic regression",
+    "random forest"
+  ],
+  "selected_model": "random forest",
+  "selection_metric": "PR-AUC",
+  "selected_metrics": {
+    "model": "random forest",
+    "pr_auc": 0.932,
+    "roc_auc": 0.9624,
+    "precision": 0.9828,
+    "recall": 0.7816,
+    "f1": 0.8707
+  },
+  "artifacts": [
+    "model-comparison.csv",
+    "model-comparison.png",
+    "selected-confusion-matrix.png",
+    "permutation-importance.csv",
+    "permutation-importance.png",
+    "results-summary.json"
+  ],
+  "limitations": [
+    "synthetic data",
+    "threshold-dependent recall",
+    "requires calibration and fairness review"
+  ],
+  "model_comparison": [
+    {
+      "model": "random forest",
+      "pr_auc": 0.932,
+      "roc_auc": 0.9624,
+      "precision": 0.9828,
+      "recall": 0.7816,
+      "f1": 0.8707
+    },
+    {
+      "model": "logistic regression",
+      "pr_auc": 0.6985,
+      "roc_auc": 0.8615,
+      "precision": 0.8045,
+      "recall": 0.4915,
+      "f1": 0.6102
+    },
+    {
+      "model": "majority baseline",
+      "pr_auc": 0.1465,
+      "roc_auc": 0.5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    }
+  ],
+  "artifact_purpose": {
+    "model-comparison.csv": "All model metrics used for selection",
+    "model-comparison.png": "Class balance and PR-AUC comparison",
+    "selected-confusion-matrix.png": "Thresholded test-set errors",
+    "permutation-importance.csv": "Feature sensitivity values",
+    "permutation-importance.png": "Feature sensitivity visualization"
+  },
+  "reproducibility": {
+    "random_state": 42,
+    "test_size": 0.2,
+    "threshold": 0.5
+  },
+  "selection_note": "Random forest was selected by PR-AUC; accuracy was not used as the sole criterion because churn is imbalanced."
+}

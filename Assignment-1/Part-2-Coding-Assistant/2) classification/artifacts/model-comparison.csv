@@ -1,0 +1,4 @@
+model,pr_auc,roc_auc,precision,recall,f1
+random forest,0.932,0.9624,0.9828,0.7816,0.8707
+logistic regression,0.6985,0.8615,0.8045,0.4915,0.6102
+majority baseline,0.1465,0.5,0.0,0.0,0.0
