@@ -46,18 +46,15 @@ Each problem includes a data audit, model or algorithm comparison, executed metr
 **Resources:**
 
 - [Part 2 documentation](./Assignment-1/Part-2-Coding-Assistant/README.md)
-- [Five-problem results](./Assignment-1/Part-2-Coding-Assistant/PROJECT_RESULTS.md)
-- [Part 2 evidence plan](./Assignment-1/Part-2-Coding-Assistant/PROJECT_PLAN.md)
+- [Five-problem results summary](./Assignment-1/Part-2-Coding-Assistant/RESULTS_SUMMARY.md)
+- [Evidence plan](./Assignment-1/Part-2-Coding-Assistant/EVIDENCE_PLAN.md)
 - [Coding-assistant prompts](./Assignment-1/Part-2-Coding-Assistant/PROMPTS.md)
 - [Classification experiment](./Assignment-1/Part-2-Coding-Assistant/classification/README.md)
 - [Regression experiment](./Assignment-1/Part-2-Coding-Assistant/regression/README.md)
 - [Clustering experiment](./Assignment-1/Part-2-Coding-Assistant/clustering/README.md)
-- [Clustering notebook](./Assignment-1/Part-2-Coding-Assistant/clustering/notebooks/customer-segmentation.ipynb)
-- [Clustering experiment summary](./Assignment-1/Part-2-Coding-Assistant/clustering/reports/experiment-summary.md)
 - [Anomaly-detection experiment](./Assignment-1/Part-2-Coding-Assistant/anomaly_detection/README.md)
 - [Association-mining experiment](./Assignment-1/Part-2-Coding-Assistant/association_mining/README.md)
-- [Five-problem experiment report](./Assignment-1/Part-2-Coding-Assistant/reports/project-experiments.md)
-
+- [Five-problem experiment summary](./Assignment-1/Part-2-Coding-Assistant/reports/five-problem-summary.md)
 ## Author
 
 **Navya Illa**  
