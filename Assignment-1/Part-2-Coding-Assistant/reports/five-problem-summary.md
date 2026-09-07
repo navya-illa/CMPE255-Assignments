@@ -48,8 +48,8 @@ The market-basket experiment generated synthetic grocery transactions and mined 
 The NYC taxi experiment predicted trip duration and fare using synthetic trip features. Random forest regression was used for both targets.
 
 - Selected method: Random forest regression
-- Duration RÂ²: `0.9024`
-- Fare RÂ²: `0.5904`
+- Duration R²: `0.9024`
+- Fare R²: `0.5904`
 - Detailed report: [`4) regression/reports/experiment-summary.md`](../4%29%20regression/reports/experiment-summary.md)
 - Artifacts: [`4) regression/artifacts/`](../4%29%20regression/artifacts/)
 
