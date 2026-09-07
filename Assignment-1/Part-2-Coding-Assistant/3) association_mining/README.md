@@ -61,7 +61,7 @@ The notebook performs the transaction audit and rule inspection. The script and 
 
 ## Video walkthrough
 
-**YouTube URL:**
+**YouTube URL:** https://youtu.be/ZrIO9W2yquM
 ## References
 
 1. [Data Science Examples](https://github.com/dlmastery/data_science_examples).
