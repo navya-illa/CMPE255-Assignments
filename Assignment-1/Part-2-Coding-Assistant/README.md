@@ -53,6 +53,13 @@ Some raw datasets are intentionally not redistributed. Follow the `data/README.m
 
 [`PROMPTS.md`](PROMPTS.md) indexes the detailed prompt records. Each record documents role and constraints, data audit, experiment design, implementation contract, adversarial review, interpretation limits, visualization checks, reproducibility, and final consistency checks.
 
+## Video Presentation
+
+Watch the complete presentation on YouTube:
+
+[
+Customer Segmentation Using an AI Coding Assistant](https://youtu.be/1VMVo_w-rBA)
+[CMPE 255 Part 2: Five Data-Mining Problems with Codex](https://youtu.be/ZrIO9W2yquM)
 ## References
 
 1. [Data Science Examples](https://github.com/dlmastery/data_science_examples). Reference examples that informed the choice of data-mining problem types and workflow framing.
