@@ -61,7 +61,7 @@ The notebook is a companion audit and artifact-inspection workflow. The command-
 [`PROMPTS.md`](PROMPTS.md) preserves the nine-stage prompt record used for planning, auditing, implementation, review, interpretation, visualization, and final consistency checking.
 ## Video walkthrough
 
-**YouTube URL:**
+**YouTube URL:** https://youtu.be/ZrIO9W2yquM
 ## References
 
 1. [Data Science Examples](https://github.com/dlmastery/data_science_examples).
