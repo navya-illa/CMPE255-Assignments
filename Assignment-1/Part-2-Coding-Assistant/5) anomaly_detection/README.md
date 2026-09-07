@@ -61,6 +61,9 @@ The notebook provides an audit and exported-result review. The command-line scri
 
 [`PROMPTS.md`](PROMPTS.md) preserves the nine-stage prompt record used for planning, auditing, implementation, review, interpretation, visualization, and final consistency checking.
 
+## Video walkthrough
+
+**YouTube URL:**
 ## References
 
 1. [Data Science Examples](https://github.com/dlmastery/data_science_examples).
