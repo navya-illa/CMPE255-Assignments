@@ -59,6 +59,7 @@ Watch the complete presentation on YouTube:
 
 [
 Customer Segmentation Using an AI Coding Assistant](https://youtu.be/1VMVo_w-rBA)
+
 [CMPE 255 Part 2: Five Data-Mining Problems with Codex](https://youtu.be/ZrIO9W2yquM)
 ## References
 
