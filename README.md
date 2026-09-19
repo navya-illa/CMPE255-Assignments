@@ -51,9 +51,8 @@ Each problem includes a data audit, model or algorithm comparison, executed metr
 - [Anomaly-detection experiment](./Assignment-1/Part-2-Coding-Assistant/5%29%20anomaly_detection/README.md)
 - [Five-problem experiment summary](./Assignment-1/Part-2-Coding-Assistant/reports/five-problem-summary.md)
 - [Coding-assistant prompts](./Assignment-1/Part-2-Coding-Assistant/PROMPTS.md)
-## Author
-
 ### [Assignment 2 - Execution of the Colabs](https://github.com/navya-illa/CMPE255-Assignments/tree/main/Assignment-2)
 
+## Author
 **Navya Illa**  
 San José State University
