@@ -2,7 +2,7 @@
 
 This repository contains my assignments for coursework **CMPE 255: Data Mining** at San José State University.
 
-## Assignment 1
+## 1) Assignment 1
 
 ### [Part 1 — Intel Scene Classification with Deep Learning](./Assignment-1/)
 
@@ -52,7 +52,7 @@ Each problem includes a data audit, model or algorithm comparison, executed metr
 - [Five-problem experiment summary](./Assignment-1/Part-2-Coding-Assistant/reports/five-problem-summary.md)
 - [Coding-assistant prompts](./Assignment-1/Part-2-Coding-Assistant/PROMPTS.md)
 ##
-### [Assignment 2 - Execution of the Colabs](https://github.com/navya-illa/CMPE255-Assignments/tree/main/Assignment-2)
+### 2) [Assignment 2 - Execution of the Colabs](https://github.com/navya-illa/CMPE255-Assignments/tree/main/Assignment-2)
 
 ## Author
 **Navya Illa**  
