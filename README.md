@@ -53,5 +53,7 @@ Each problem includes a data audit, model or algorithm comparison, executed metr
 - [Coding-assistant prompts](./Assignment-1/Part-2-Coding-Assistant/PROMPTS.md)
 ## Author
 
+###[Assignment 2 - Execution of the Colabs](https://github.com/navya-illa/CMPE255-Assignments/tree/main/Assignment-2)
+
 **Navya Illa**  
 San José State University
