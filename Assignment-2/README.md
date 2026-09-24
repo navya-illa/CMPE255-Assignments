@@ -8,7 +8,7 @@ The goal is to execute the Colab notebooks, preserve the outputs, understand the
 
 | No. | Topic | Executed Notebook / Resource | Video |
 |---:|---|---|---|
-| 1 | Introduction to Python for Machine Learning | [Open Notebook](./Copy_final_Intro_to_Python_for_Machine_Learning.ipynb) | [Watch Video](https://www.youtube.com/watch?v=VIDEO_ID_01) |
+| 1 | Introduction to Python for Machine Learning | [Open Notebook](./Copy_final_Intro_to_Python_for_Machine_Learning.ipynb) | [Watch Video](https://youtu.be/ZJ3_-WaS4lI) |
 | 2 | Calculus for Deep Learning | [Open Notebook](./Copy_final_calculus_for_deep_learning.ipynb) | [Watch Video](https://www.youtube.com/watch?v=VIDEO_ID_02) |
 | 3 | Foundations of Linear Algebra | [Open Notebook](./Copy_final_foundations_1_the_linear_algebra_for_ml.ipynb) | [Watch Video](https://www.youtube.com/watch?v=VIDEO_ID_03) |
 | 4 | Foundations of Linear Algebra | [Open Notebook](./Copy_final_foundations_2_linear_algebra_for_ml.ipynb) | [Watch Video](https://www.youtube.com/watch?v=VIDEO_ID_04) |
