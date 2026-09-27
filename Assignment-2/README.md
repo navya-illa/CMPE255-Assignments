@@ -24,7 +24,7 @@ The goal is to execute the Colab notebooks, preserve the outputs, understand the
 | 14 | Probability Fundamentals |  [Watch Video](https://www.youtube.com/watch?v=VIDEO_ID_14) |
 | 15 | Statistics for Deep Learning |  [Watch Video](https://www.youtube.com/watch?v=VIDEO_ID_15) |
 | 16 | Linear Algebra for Deep Learning |  [Watch Video](https://www.youtube.com/watch?v=VIDEO_ID_16) |
-| 17 | Neural Network Playground | [Watch Video](https://www.youtube.com/watch?v=VIDEO_ID_17) |
+| 17 | Neural Network Playground | [Watch Video](https://youtu.be/_KRHZNOrkbA) |
 
 ## Execution Status
 
