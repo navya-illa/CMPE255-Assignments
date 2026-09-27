@@ -9,7 +9,7 @@ The goal is to execute the Colab notebooks, preserve the outputs, understand the
 | No. | Topic | Video |
 |---:|---|---|
 | 1 | Introduction to Python for Machine Learning | [Watch Video](https://youtu.be/ZJ3_-WaS4lI) |
-| 2 | Calculus for Deep Learning | [Watch Video](https://www.youtube.com/watch?v=VIDEO_ID_02) |
+| 2 | Calculus for Deep Learning | [Watch Video](https://youtu.be/O1YR_cyUBhw) |
 | 3 | Foundations of Linear Algebra | [Watch Video](https://www.youtube.com/watch?v=VIDEO_ID_03) |
 | 4 | Foundations of Linear Algebra | [Watch Video](https://www.youtube.com/watch?v=VIDEO_ID_04) |
 | 5 | Foundations of Probability | [Watch Video](https://www.youtube.com/watch?v=VIDEO_ID_05) |
