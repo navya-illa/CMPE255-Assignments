@@ -4,7 +4,7 @@ This assignment is for **FA26: CMPE-255 Sec 49 – Data Mining** at San José St
 
 The goal is to execute the Colab notebooks, preserve the outputs, understand the important concepts, and explain the code and results through video walkthroughs.
 
-## Colab Notebooks and Video Walkthroughs
+## Video Walkthroughs
 
 | No. | Topic | Video |
 |---:|---|---|
