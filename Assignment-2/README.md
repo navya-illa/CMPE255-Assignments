@@ -13,7 +13,7 @@ The goal is to execute the Colab notebooks, preserve the outputs, understand the
 | 3 | Foundations of Linear Algebra | [Watch Video](https://youtu.be/WyFN1dRWo4Q) |
 | 4 | Foundations of Linear Algebra | [Watch Video](https://youtu.be/3Vyi0WqRV3c) |
 | 5 | Foundations of Probability | [Watch Video](https://youtu.be/8NOWTZJhA3I) |
-| 6 | Foundations of Calculus | [Watch Video](https://www.youtube.com/watch?v=VIDEO_ID_06) |
+| 6 | Foundations of Calculus | [Watch Video](https://youtu.be/AkXD8NKa2Xs) |
 | 7 | Introduction to Calculus | [Watch Video](https://www.youtube.com/watch?v=VIDEO_ID_07) |
 | 8 | Introduction to Linear Algebra |  [Watch Video](https://www.youtube.com/watch?v=VIDEO_ID_08) |
 | 9 | Introduction to Probability | [Watch Video](https://www.youtube.com/watch?v=VIDEO_ID_09) |
