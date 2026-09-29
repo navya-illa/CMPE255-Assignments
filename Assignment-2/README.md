@@ -19,7 +19,7 @@ The goal is to execute the Colab notebooks, preserve the outputs, understand the
 | 9 | Introduction to Probability | [Watch Video](https://youtu.be/z8qC0REYjco) |
 | 10 | Introduction to Statistics | [Watch Video](https://youtu.be/klu5dpNQzAI) |
 | 11 | Matplotlib | [Watch Video](https://youtu.be/X9f3d0vKxS4) |
-| 12 | NumPy Foundations |  [Watch Video](https://www.youtube.com/watch?v=VIDEO_ID_12) |
+| 12 | NumPy Foundations |  [Watch Video](https://youtu.be/BXRGgFbUXtg) |
 | 13 | Pandas | [Watch Video](https://www.youtube.com/watch?v=VIDEO_ID_13) |
 | 14 | Probability Fundamentals |  [Watch Video](https://www.youtube.com/watch?v=VIDEO_ID_14) |
 | 15 | Statistics for Deep Learning |  [Watch Video](https://www.youtube.com/watch?v=VIDEO_ID_15) |
