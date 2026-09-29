@@ -21,7 +21,7 @@ The goal is to execute the Colab notebooks, preserve the outputs, understand the
 | 11 | Matplotlib | [Watch Video](https://youtu.be/X9f3d0vKxS4) |
 | 12 | NumPy Foundations |  [Watch Video](https://youtu.be/BXRGgFbUXtg) |
 | 13 | Pandas | [Watch Video](https://youtu.be/1KEajxCRruo) |
-| 14 | Probability Fundamentals |  [Watch Video](https://www.youtube.com/watch?v=VIDEO_ID_14) |
+| 14 | Probability Fundamentals |  [Watch Video](https://youtu.be/Qu4Xlzzr0qs) |
 | 15 | Statistics for Deep Learning |  [Watch Video](https://www.youtube.com/watch?v=VIDEO_ID_15) |
 | 16 | Linear Algebra for Deep Learning |  [Watch Video](https://www.youtube.com/watch?v=VIDEO_ID_16) |
 | 17 | Neural Network Playground | [Watch Video](https://youtu.be/_KRHZNOrkbA) |
