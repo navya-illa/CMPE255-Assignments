@@ -2,7 +2,6 @@
 
 CMPE 255 | Six Colab notebooks with full run outputs and video walkthroughs.
 
-Each notebook was run end to end in Google Colab. The saved `.ipynb` files include all cell outputs. Click a badge to open and re-run any notebook.
 
 ## Overview
 
