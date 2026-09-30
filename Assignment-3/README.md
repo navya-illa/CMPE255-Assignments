@@ -1,4 +1,4 @@
-# Assignment 3: AutoML, Clustering, and GPU-Accelerated ML
+# Assignment 3:
 
 CMPE 255 | Six Colab notebooks with full run outputs and video walkthroughs.
 
