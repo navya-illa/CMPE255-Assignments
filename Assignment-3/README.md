@@ -1,11 +1,5 @@
 # CMPE 255 – Assignment 3
 
-## AutoML, Clustering, GPU Acceleration, and MLOps
-
-**Student:** Navya Illa  
-**Course:** CMPE 255 – Data Mining  
-**Semester:** Fall 2026  
-
 ## Overview
 
 This assignment demonstrates clustering, automated machine learning, GPU-accelerated data processing, and MLOps using Google Colab notebooks.
