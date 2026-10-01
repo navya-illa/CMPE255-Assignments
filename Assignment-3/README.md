@@ -8,7 +8,7 @@ All notebooks were executed successfully, and the completed notebooks include th
 
 ## Assignment Parts
 
-### Part 1: K-Means Clustering and Variations
+### [Part 1: K-Means Clustering and Variations](./Copy_of_final_kmeans_zero_to_hero.ipynb)
 
 This notebook demonstrates:
 
@@ -20,7 +20,7 @@ This notebook demonstrates:
 - Cluster visualization
 - Comparison of clustering results
 
-### Part 2: AutoGluon Capabilities
+### [Part 2: AutoGluon Capabilities](./Copy_of_final_autogluon_capabilities_tour.ipynb)
 
 This notebook explores the capabilities of AutoGluon, including:
 
@@ -32,7 +32,7 @@ This notebook explores the capabilities of AutoGluon, including:
 - Feature importance
 - Prediction generation
 
-### Part 3: AutoGluon End-to-End Machine Learning
+### [Part 3: AutoGluon End-to-End Machine Learning](./Copy_of_final_autogluon_zero_to_hero.ipynb)
 
 This notebook presents a complete AutoGluon workflow:
 
@@ -46,7 +46,7 @@ This notebook presents a complete AutoGluon workflow:
 - Generating predictions
 - Interpreting the results
 
-### Part 4: NVIDIA RAPIDS CPU Comparison
+### [Part 4: NVIDIA RAPIDS CPU Comparison](./Copy_of_final_nvidia_rapids_zero_to_hero.ipynb)
 
 This notebook compares CPU-based processing with GPU-accelerated processing using NVIDIA RAPIDS.
 
@@ -60,7 +60,7 @@ The notebook covers:
 - GPU-accelerated machine learning
 - Performance analysis
 
-### Part 5: PyCaret Capabilities
+### [Part 5: PyCaret Capabilities](./Copy_of_final_pycaret_capabilities_tour_%281%29.ipynb)
 
 This notebook demonstrates the PyCaret AutoML workflow:
 
@@ -73,7 +73,7 @@ This notebook demonstrates the PyCaret AutoML workflow:
 - Predictions
 - Model interpretation
 
-### Part 6: PyCaret MLOps
+### [Part 6: PyCaret MLOps](./Copy_of_final_pycaret_zero_to_hero.ipynb)
 
 This notebook demonstrates MLOps functionality using PyCaret:
 
