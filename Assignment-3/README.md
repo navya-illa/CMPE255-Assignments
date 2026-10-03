@@ -120,7 +120,7 @@ Each part contains the corresponding executed Colab notebook and supporting outp
 
 The video tutorial explains the important cells and outputs from each notebook.
 
-- Part 1 – ###[K-Means Clustering:] (https://youtu.be/F2C3WghwBvI)
+- Part 1 – K-Means Clustering: https://youtu.be/F2C3WghwBvI
 - Part 2 – AutoGluon Capabilities: `video link`
 - Part 3 – AutoGluon End-to-End ML: `video link`
 - Part 4 – NVIDIA RAPIDS CPU Comparison: `video link`
