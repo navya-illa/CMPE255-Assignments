@@ -1,0 +1,9 @@
+{
+  "name": "todo-copilot-assignment",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A polished To-Do List application created for the VS Code GitHub Copilot assignment.",
+  "scripts": {
+    "test": "node --test"
+  }
+}
