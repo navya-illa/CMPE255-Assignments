@@ -43,9 +43,8 @@ These results come from different cited studies and are not a single shared lead
 ## Published links
 
 - **Medium article:** [How Machine Learning Reads the Moisture Beneath Our Feet](https://medium.com/@9navya9/how-machine-learning-reads-the-moisture-beneath-our-feet-f3fa2096adaf)
-- **SlideShare deck:** To be added after publication
-- **Presentation video:** To be added after recording and upload
-- **GitHub assignment directory:** To be added after the final links are uploaded
+- **SlideShare deck:** 
+- **Presentation video:** 
 
 ## Repository contents
 
@@ -66,15 +65,6 @@ These results come from different cited studies and are not a single shared lead
 └── output/
     └── Soil-Moisture-2026-Brown-Technical-Deck-v6.pptx
 ```
-
-## How to use this project
-
-1. Read the source survey and the Medium article for the narrative explanation.
-2. Open the PowerPoint deck for the technical presentation.
-3. Use the presentation script while recording the presentation.
-4. Publish the deck on SlideShare and add the URL above.
-5. Record the 10–15-minute presentation, upload the video to the GitHub assignment directory, and add its URL above.
-6. Submit the GitHub, Medium, and SlideShare links required by the assignment.
 
 ## Citation
 
