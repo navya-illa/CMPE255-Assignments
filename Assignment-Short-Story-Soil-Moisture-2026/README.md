@@ -43,7 +43,7 @@ These results come from different cited studies and are not a single shared lead
 ## Published links
 
 - **Medium article:** [How Machine Learning Reads the Moisture Beneath Our Feet](https://medium.com/@9navya9/how-machine-learning-reads-the-moisture-beneath-our-feet-f3fa2096adaf)
-- **SlideShare deck:** 
+- **SlideShare deck:** [SlideShare](https://1drv.ms/p/c/0cb17caeb974bd79/IQBko3wto7bZTLxI5wpKSf23Ad0HYDllDK5WtUK2hLTZ9i4?e=XUmHLK) 
 - **Presentation video:** 
 
 ## Repository contents
