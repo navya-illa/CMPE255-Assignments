@@ -123,7 +123,7 @@ The video tutorial explains the important cells and outputs from each notebook.
 - Part 1 – K-Means Clustering: https://youtu.be/F2C3WghwBvI
 - Part 2 – AutoGluon Capabilities: https://youtu.be/YKQs80RhXis
 - Part 3 – AutoGluon End-to-End ML: https://youtu.be/Sm6waBzg81k
-- Part 4 – NVIDIA RAPIDS CPU Comparison: `video link`
+- Part 4 – NVIDIA RAPIDS CPU Comparison: https://youtu.be/u06ixU4cJaE
 - Part 5 – PyCaret Capabilities: `video link`
 - Part 6 – PyCaret MLOps: `video link`
 
