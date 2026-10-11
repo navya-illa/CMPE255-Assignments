@@ -125,7 +125,7 @@ The video tutorial explains the important cells and outputs from each notebook.
 - Part 3 – AutoGluon End-to-End ML: https://youtu.be/Sm6waBzg81k
 - Part 4 – NVIDIA RAPIDS CPU Comparison: https://youtu.be/u06ixU4cJaE
 - Part 5 – PyCaret Capabilities: https://youtu.be/uVhe7NBv05k
-- Part 6 – PyCaret MLOps: `video link`
+- Part 6 – PyCaret MLOps: https://youtu.be/9OMral8Lj-k
 
 The videos demonstrate the actual execution of the notebooks and explain the purpose of the important code sections, outputs, visualizations, and metrics.
 
