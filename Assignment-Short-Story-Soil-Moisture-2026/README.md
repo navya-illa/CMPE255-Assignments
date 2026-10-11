@@ -2,7 +2,7 @@
 
 This project presents the 2026 arXiv survey **[A Survey on Data-Driven Models for Soil Moisture Regression and Classification](https://arxiv.org/pdf/2606.18316)** by Ilektra Tsimpidi, George Georgoulas, Vidya Sumathy, and George Nikolakopoulos.
 
-The project translates the survey into an original Medium article, a technical slide presentation, and a presentation script. It focuses on how machine-learning models combine ground sensors, satellites, weather data, soil properties, terrain, and historical observations to estimate or classify soil moisture.
+It focuses on how machine-learning models combine ground sensors, satellites, weather data, soil properties, terrain, and historical observations to estimate or classify soil moisture.
 
 ## Project overview
 
