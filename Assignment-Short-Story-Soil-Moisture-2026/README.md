@@ -123,7 +123,7 @@ A slide deck covering the pipeline, the five model families, the reported result
 
 ## Video presentation
 
-_Video link to be added._
+https://youtu.be/3iF4H96IU3g
 
 ## References
 
