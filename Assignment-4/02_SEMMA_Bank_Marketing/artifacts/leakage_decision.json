@@ -1,0 +1,6 @@
+{
+  "excluded_features": [
+    "duration"
+  ],
+  "reason": "duration is measured during campaign contact and is unavailable for pre-contact targeting"
+}

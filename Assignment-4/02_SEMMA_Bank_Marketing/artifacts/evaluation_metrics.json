@@ -1,0 +1,9 @@
+{
+  "selected_model": "hist_gradient_boosting",
+  "campaign_contact_fraction": 0.2,
+  "threshold": 0.12224086480571342,
+  "roc_auc": 0.7927241294819091,
+  "pr_auc": 0.4512111958497668,
+  "precision_at_capacity": 0.35658914728682173,
+  "recall_at_capacity": 0.6086956521739131
+}

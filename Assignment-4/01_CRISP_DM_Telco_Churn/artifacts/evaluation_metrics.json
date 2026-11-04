@@ -1,0 +1,9 @@
+{
+  "selected_model": "logistic",
+  "outreach_fraction": 0.3,
+  "threshold": 0.6426905439577232,
+  "roc_auc": 0.8415846443979436,
+  "pr_auc": 0.6336689582248496,
+  "precision_at_budget": 0.5647321428571429,
+  "recall_at_budget": 0.6764705882352942
+}

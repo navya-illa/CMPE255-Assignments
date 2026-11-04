@@ -1,0 +1,7 @@
+{
+  "best_k": 2,
+  "customers": 4338,
+  "valid_invoices": 17138,
+  "frequent_itemsets": 282,
+  "rules": 96
+}
