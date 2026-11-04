@@ -293,34 +293,6 @@ These values are stored in the project artifact files and should be reconciled w
 
 Each project includes a critique log. The review prompt asks an AI assistant to act as a rigorous expert reviewer in the relevant methodology.
 
-The reviewer is instructed to evaluate:
-
-- Completeness of every methodology stage
-- Problem and business alignment
-- Data quality
-- Sampling and leakage
-- Statistical validity
-- Model and metric selection
-- Reproducibility
-- Missing artifacts
-- Interpretability
-- Ethical and operational risks
-- Agreement between code and written claims
-
-The intended revision cycle is:
-
-1. Draft a methodology section.
-2. Ask GPT-5 or Claude to critique the draft using the expert persona.
-3. Rank issues as high, medium, or low priority.
-4. Revise the section and code.
-5. Execute the code manually.
-6. Compare the generated outputs against the written report.
-7. Record the revision and verification in the project critique log.
-
-The persona is a reviewing role for quality assurance; it is not a claim that the AI is an actual author or authority.
-
----
-
 ## Deployment and operational handoff
 
 The classification projects include saved scikit-learn pipelines and scoring scripts.
