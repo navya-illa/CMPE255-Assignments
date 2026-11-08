@@ -10,6 +10,3 @@ All three source scripts were run from a clean Python environment after the leak
 
 Each project includes an artifacts/ directory containing real metrics, charts, tables, and serialized models where applicable. KDD outputs are also copied into knowledge_artifacts/.
 
-## Run locally or in Colab
-
-Install requirements.txt, then run the corresponding Python script from its project directory. Each script downloads its public dataset, executes the methodology, and writes reproducible outputs under artifacts/. The notebooks provide the Colab entry point through `%run`.
