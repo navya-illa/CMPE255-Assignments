@@ -277,20 +277,15 @@ KDD_DATA_PATH=/path/to/Online_Retail.xlsx python notebook/KDD_Online_Retail.py
 
 ## Medium articles
 
-**Medium URL for CRISP-DM:** [How Data-Driven Models Read the Soil Moisture Beneath Our Feet](https://medium.com/@9navya9/how-machine-learning-reads-the-moisture-beneath-our-feet-f3fa2096adaf)
+**Medium URL for CRISP-DM:** [Discovering Customers at Risk of Churning Using CRISP-DM](https://medium.com/@9navya9/discovering-customers-at-risk-of-churning-using-crisp-dm-4d5ff67924c9)
 
-**Medium URL for SEMMA:** [How Data-Driven Models Read the Soil Moisture Beneath Our Feet](https://medium.com/@9navya9/how-machine-learning-reads-the-moisture-beneath-our-feet-f3fa2096adaf)
+**Medium URL for SEMMA:** [Predicting Bank Marketing Responses Using the SEMMA Methodology](https://medium.com/@9navya9/predicting-bank-marketing-responses-using-the-semma-methodology-5dad2c2d1690)
 
 **Medium URL for KDD:** [Discovering Customer Segments and Product Associations from Online Retail Data](https://medium.com/@9navya9/discovering-customer-segments-and-product-associations-from-online-retail-data-f73cb4072903)
 
 ## Video Walkthrough
 
-**CRISP-DM:** https://youtu.be/3iF4H96IU3g
-
-**SEMMA:** https://youtu.be/3iF4H96IU3g
-
-**KDD:** https://youtu.be/3iF4H96IU3g
-
+**YouTube Link:** https://youtu.be/3iF4H96IU3g
 
 ## Verified results
 
