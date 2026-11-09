@@ -281,7 +281,7 @@ KDD_DATA_PATH=/path/to/Online_Retail.xlsx python notebook/KDD_Online_Retail.py
 
 **Medium URL for SEMMA:** [How Data-Driven Models Read the Soil Moisture Beneath Our Feet](https://medium.com/@9navya9/how-machine-learning-reads-the-moisture-beneath-our-feet-f3fa2096adaf)
 
-**Medium URL for KDD:** [How Data-Driven Models Read the Soil Moisture Beneath Our Feet](https://medium.com/@9navya9/how-machine-learning-reads-the-moisture-beneath-our-feet-f3fa2096adaf)
+**Medium URL for KDD:** [Discovering Customer Segments and Product Associations from Online Retail Data](https://medium.com/@9navya9/discovering-customer-segments-and-product-associations-from-online-retail-data-f73cb4072903)
 
 ## Video Walkthrough
 
