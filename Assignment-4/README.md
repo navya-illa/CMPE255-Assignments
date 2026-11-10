@@ -285,7 +285,7 @@ KDD_DATA_PATH=/path/to/Online_Retail.xlsx python notebook/KDD_Online_Retail.py
 
 ## Video Walkthrough
 
-**YouTube Link:** https://youtu.be/3iF4H96IU3g
+**YouTube Link:** https://youtu.be/2PTH5Uwi_gI
 
 ## Verified results
 
